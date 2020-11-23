@@ -15,4 +15,3 @@ A mini version of google search page using google custom search API.
 4. Type ```npm start``` to run the nodejs server.
 5. Open [localhost:3000](localhost:3000/) in your browser.
 
-# google_clone
