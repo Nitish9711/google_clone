@@ -1,11 +1,9 @@
 # Google Clone
 
-A mini version of google search page using google custom search API.
-
+A mini version of google search page using React js and google custom search API.
 
 ## You can visit this project on
 [https://clone-cca0d.web.app/](https://clone-cca0d.web.app/)
-
 
 
 ## How to Run 
